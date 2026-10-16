@@ -17,4 +17,6 @@ To rerun everything:
 
 Data download automatically on the first run. Results are written to `results/paper_results.json`.
 
+In the code "GM" stands for the name of the framework, for example, "GM prediction" is what General Mechanics predicts, and the folder name GM_physical_plane_paper is short for "General Mechanics: the physical plane".
+
 I thank Dr Monjo for being the first to run the test suite and for comments on the redshift test and the plasma term along with noticing the bug for Windows porting.

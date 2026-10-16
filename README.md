@@ -16,3 +16,5 @@ To rerun everything:
     python run_all.py
 
 Data download automatically on the first run. Results are written to `results/paper_results.json`.
+
+I thank Dr Monjo for being the first to run the test suite and for comments on the redshift test and the plasma term. 
